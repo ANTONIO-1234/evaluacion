@@ -5,5 +5,5 @@
  </head>
  <body>
   <?php echo '<p>Hola amigos</p>'; ?>
- </body>
+ </body bgcolor="#E690FA">
 </html>
